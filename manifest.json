@@ -3,14 +3,9 @@
   "name": "Urban Sports Club",
   "icons": [
     {
-      "src": "/images/icons-192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "/images/icons-512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "/images/logo-mobile.jpg",
+      "type": "image/jpg",
+      "sizes": "246x246"
     }
   ],
   "start_url": "",
