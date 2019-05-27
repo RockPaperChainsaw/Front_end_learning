@@ -5,10 +5,10 @@
     {
       "src": "/images/logo-mobile.jpg",
       "type": "image/jpg",
-      "sizes": "246x246"
+      "sizes": "192x192"
     }
   ],
-  "start_url": "",
+  "start_url": "/",
   "background_color": "#FFF",
   "display": "standalone",
   "scope": "/",
