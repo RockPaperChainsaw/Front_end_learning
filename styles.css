@@ -2,7 +2,7 @@
 body, html {
 	padding: 0;
 	margin: 0;
-	font-family: 'Roboto', Helvetica, sans-serif;
+	font-family: 'Roboto', Helvetica, Arial, sans-serif;
 	font-size: 72px; /* ajuste la taille generale des fonts dans la page */
 	overflow-y: hidden;
 	overflow-x: hidden;
