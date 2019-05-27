@@ -1,0 +1,21 @@
+{
+  "short_name": "Urban Sports Club",
+  "name": "Urban Sports Club",
+  "icons": [
+    {
+      "src": "/images/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "",
+  "background_color": "#FFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#4C4C4C"
+}
