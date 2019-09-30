@@ -128,7 +128,7 @@ h6 {
 .section.main img { 
 	margin-left: 60px;
 	margin-top: 40px; 
-	transform: rotate(-90deg);
+	/*transform: rotate(-90deg);*/
 	 height: 500px; 
 	 width: 500px;
 	 border-radius: 50%;
